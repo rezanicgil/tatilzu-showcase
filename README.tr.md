@@ -1,12 +1,16 @@
 # Tatilzu
 
-### Daha az araştır. Daha iyi tatil kararları ver.
+Plajı, otel olanaklarını ve iptal koşullarını aynı aramada karşılaştırabileceğin bir otel keşif demosu. Oteller ve teklifler kurgusal.
 
 [Canlı demoyu keşfet](https://tatilzu.com) · [English](README.md) · [Mimari özeti](docs/architecture.md)
 
 Tatilzu; otel arama, filtreleme, harita ve karşılaştırmayı aynı araştırma akışında birleştiren kişisel ürün projem. Amacım, konumdan iptal koşullarına kadar karar vermeyi etkileyen bilgileri anlaşılır biçimde bir araya getirmek.
 
 ![Tatilzu ana sayfası](assets/home.png)
+
+## Bir aramayı dene
+
+[Antalya sonuçlarını aç](https://tatilzu.com/oteller?q=Antalya). Tarih seçmediğinde beş gece varsayımını, misafir ve oda sayısını örnek toplamın yanında görebilirsin. Harita görünümüne geçip Sol Garden Resort işaretini seç ve otel kartını aç. İşaret üzerindeki konumun temsili olduğu belirtilir.
 
 ## Ürün deneyimi
 

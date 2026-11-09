@@ -39,7 +39,7 @@ This document describes the application's main boundaries, based on the project 
 
 The application repository contains regression tests around filtering, demo totals, routes, sharing, authentication and Worker responses. Browser review complements those checks for responsive layout, map interactions, empty/error states and accessibility behavior.
 
-This documentation update did not run the application's complete test suite or a production load test. It does not claim measured throughput, an uptime SLA or a coverage percentage.
+On 9 November 2026 the application's local Node suite passed 15 tests on the development checkout. A separate check on the live Antalya results page confirmed that it displays the assumed trip length and switches to a MapLibre view with an explicitly illustrative hotel marker. These checks cover specific behavior. Production throughput, availability and test coverage percentage were not measured.
 
 ## Beyond the demo
 

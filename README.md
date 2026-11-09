@@ -1,9 +1,7 @@
 <div align="center">
 
 # Tatilzu
-### Less research. Better travel decisions.
-
-A Turkish-first hotel discovery experience that brings search, maps and comparison into one clear decision flow.
+A hotel discovery demo for comparing beach access, amenities and cancellation terms before choosing a place to stay. Built with fictional hotels and offers.
 
 [Explore the live demo](https://tatilzu.com) · [Architecture](docs/architecture.md) · [Türkçe](README.tr.md)
 
@@ -20,6 +18,10 @@ Choosing a hotel means balancing location, atmosphere, price and cancellation te
 Built by **[Muhammet Rezan İçgil](https://github.com/rezanicgil)** as a personal product and engineering project, spanning the React interface, TypeScript domain logic and a Cloudflare-backed API.
 
 > **Public product showcase.** Application source code remains private. The live experience uses fictional hotels, illustrative prices, reviews and locations. It does not provide live availability, reservations or payments.
+
+## Try a search
+
+Open the [Antalya results](https://tatilzu.com/oteller?q=Antalya). With no travel dates selected, the page shows its five-night assumption next to the example total. Switch from list to map, select Sol Garden Resort, and open its hotel card. The map marker identifies its location as illustrative. The hotel card links the total to the guest and room counts used in the search.
 
 ## Explore the product
 
